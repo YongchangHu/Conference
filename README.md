@@ -63,7 +63,7 @@ Liyao Xiang, Jingbo Yang and Baochun Li (University of Toronto, Canada)
 * **iLPS: Local Positioning System with Simultaneous Localization and Wireless Communication,**
 Mingyu Yang, Karan Suri, Li-Xuan Chuo, Hao Zheng, Lu Liu and Hun Seok Kim (University of Michigan, USA)
 
-* **Label-Less: A Semi-automatic Labeling Tool for KPI Anomalies.**
+* **Label-Less: A Semi-automatic Labeling Tool for KPI Anomalies,**
 Nengwen Zhao and Jing Zhu (Tsinghua University, P.R. China); Rong Liu (Stevens Institute of Technology, USA); Dapeng Liu (BizSeer, P.R. China); Ming Zhang (China Constrution Bank, P.R. China); Dan Pei (Tsinghua University, P.R. China)
 
 * **Online Internet Anomaly Detection With High Accuracy: A Fast Tensor Factorization Solution,**
@@ -80,7 +80,7 @@ Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China);
 * **Registration opens**: Now
 
 **Papers of interest:**
-* **Towards Practical Differentially Private Convex Optimization ** 
+*  **Towards Practical Differentially Private Convex Optimization,** 
 Roger Iyengar (Carnegie Mellon University), Joseph P. Near (University of California, Berkeley), Dawn Song (University of California, Berkeley), Om Thakkar (Boston University), Abhradeep Thakurta (University of California, Santa Cruz), Lun Wang (Peking University) [PDF](http://cs-people.bu.edu/omthkkr/papers/TPDPCO.pdf)
 
 
