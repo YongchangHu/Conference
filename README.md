@@ -54,6 +54,12 @@ Shiqing Ma, Yingqi Liu, Guanhong Tao, Wen-Chuan Lee, and Xiangyu Zhang (Purdue U
 
 **Papers of interest:**
 
+* **GCN-GAN: A Non-linear Temporal Link Prediction Model for Weighted Dynamic Networks,**
+Kai Lei (Peking University, P.R. China); Meng Qin (School of Electronics and Computer Engineering, Peking University, P.R. China); Bo Bai (Huawei Technologies Co., Ltd., Hong Kong); Gong Zhang (Huawei Research, P.R. China); Min Yang (Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences, P.R. China)
+
+* **Statistical learning of geometric characteristics of wireless networks,**
+Antoine Brochard (Huawei/Inria, France); Bartlomiej Błaszczyszyn (Inria-Ens, France); Stephane Mallat (Collège de France & École Normale Supérieure, France); Sixin Zhang (ENS, France)
+
 * **Crowd-Flow Graph Construction and Identification with Spatio-Temporal Signal Feature Fusion,**
 Suining He (The Hong Kong University of Science and Technology, P.R. China); Kang Shin (University of Michigan, USA)
 
