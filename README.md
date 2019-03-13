@@ -2,16 +2,30 @@
 Record the conferences of interest in 2019
 
 ## Events
+* **ACM/USENIX NSDI:** Feb 26 - 28, 2019,  BOSTON, MA - USA
 * **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
 * **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach - USA
 * **ACM MobiSys:** Jun 17 - 21, 2019, Seoul - South Korea
+* **ACM SIGMETRICS:** Jun 24 - 28, 2019, Phoenix, Arizona - USA
 * **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
 * **IJCAI:** August 10-16, 2019, Macao - China
 * **ACM SIGCOMM:** August 19, 2019, Beijing - China
 * **ACM IMC:** October 21 - 23, 2019, Amsterdam - Netherlands
 * **ACM MobiCom:** October 21-25, Los Cabos, Mexico
+* **ACM CCS:** November 11 - 15, 2019, London, UK
 * **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
 * **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
+
+## ACM/USENIX NSDI
+[ACM/USENIX NSDI](https://www.usenix.org/conference/nsdi19) - *ACM/USENIX NSDI 2019 official website.*
+* **Time**: Feb 26 - 28, 2019
+* **Location**: BOSTON, MA, USA
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+
 
 ## IEEE Infocom 2019
 [INFOCOM 2019](https://infocom2019.ieee-infocom.org/) - *INFOCOM 2019 official website.*
@@ -57,7 +71,17 @@ Coming...
 
 **Papers of interest:**
 
+Coming ....
 
+## ACM SIGMETRICS
+[ACM SIGMETRICS](https://www.sigmetrics.org/sigmetrics2019/) - *ACM SIGMETRICS 2019 official website.*
+* **Time**: June 24-28, 2019
+* **Location**: Phoenix, Arizona - USA
+* **Registration opens**: 
+
+**Papers of interest:**
+
+Coming ....
 
 
 ## ACM KDD 2019
@@ -139,32 +163,18 @@ Qiongzheng Lin, Zhenlin An, Lei Yang (The Hong Kong Polytechnic University) [pre
 
 
 
-## ACM SIGMETRICS
-[ACM SIGMETRICS]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
 
 
 ## ACM CCS
-[ACM CCS]() - * 2019 official website.*
-* **Time**:
-* **Location**:
+[ACM CCS](https://www.sigsac.org/ccs/CCS2019/) - *ACM CCS 2019 official website.*
+* **Time**: November 11-15, 2019
+* **Location**: London, UK
 * **Registration opens**: 
 
 **Papers of interest:**
+Coming ...
 
 
-
-## ACM/USENIX NSDI
-[ACM/USENIX NSDI]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
 
 
 ## ACM/USENIX NSDI
