@@ -4,11 +4,13 @@ Record the conferences of interest in 2019
 ## Events
 * **ACM/USENIX NSDI:** Feb 26 - 28, 2019,  BOSTON, MA - USA
 * **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
+* **IEEE Security & Privacy:** May 20 -29, 2019, THE HYATT REGENCY, SAN FRANCISCO - CA
 * **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach - USA
 * **ACM MobiSys:** Jun 17 - 21, 2019, Seoul - South Korea
 * **ACM SIGMETRICS:** Jun 24 - 28, 2019, Phoenix, Arizona - USA
 * **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
 * **IJCAI:** August 10-16, 2019, Macao - China
+* **USENIX Security:** August 14 -16, 2019, SANTA CLARA, CA - USA
 * **ACM SIGCOMM:** August 19, 2019, Beijing - China
 * **ACM IMC:** October 21 - 23, 2019, Amsterdam - Netherlands
 * **ACM MobiCom:** October 21-25, Los Cabos, Mexico
@@ -16,11 +18,28 @@ Record the conferences of interest in 2019
 * **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
 * **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
 
+
+
+## IEEE NDSS
+[IEEE NDSS](https://www.ndss-symposium.org/ndss2019/) - *IEEE NDSS 2019 official website.*
+* **Time**: Feb 24 - 27, 2019
+* **Location**: San Diego, California, USA
+* **Registration opens**: Closed
+
+**Papers of interest:**
+
+* **Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation**
+Binghui Wang, Jinyuan Jia, and Neil Zhenqiang Gong (Iowa State University) [PDF](https://arxiv.org/pdf/1812.01661.pdf)
+
+* **NIC: Detecting Adversarial Samples with Neural Network Invariant Checking**
+Shiqing Ma, Yingqi Liu, Guanhong Tao, Wen-Chuan Lee, and Xiangyu Zhang (Purdue University) [PDF](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-4_Ma_paper.pdf)
+
+
 ## ACM/USENIX NSDI
 [ACM/USENIX NSDI](https://www.usenix.org/conference/nsdi19) - *ACM/USENIX NSDI 2019 official website.*
 * **Time**: Feb 26 - 28, 2019
 * **Location**: BOSTON, MA, USA
-* **Registration opens**: 
+* **Registration opens**: Closed
 
 **Papers of interest:**
 
@@ -52,6 +71,19 @@ Xiaocan Li (Stony Brook University, New York, USA); Kun Xie (State University of
 
 * **Unsupervised Anomaly Detection for Intricate KPIs via Adversarial Training of VAE,**
 Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China); Jie Chen, Honglin Qiao, Yang Feng and Zhaogang Wang (Alibaba Group, P.R. China)
+
+
+## IEEE Security & Privacy
+[IEEE Security & Privacy](https://www.ieee-security.org/TC/SP2019/) - *IEEE Security & Privacy 2019 official website.*
+* **Time**: May 20 -29, 2019
+* **Location**: THE HYATT REGENCY, SAN FRANCISCO - CA
+* **Registration opens**: Now
+
+**Papers of interest:**
+* **Towards Practical Differentially Private Convex Optimization ** 
+Roger Iyengar (Carnegie Mellon University), Joseph P. Near (University of California, Berkeley), Dawn Song (University of California, Berkeley), Om Thakkar (Boston University), Abhradeep Thakurta (University of California, Santa Cruz), Lun Wang (Peking University) [PDF](http://cs-people.bu.edu/omthkkr/papers/TPDPCO.pdf)
+
+
 
 ## ICML 2019
 [ICML 2019](https://icml.cc/) - *ICML 2019 official website.*
@@ -130,6 +162,16 @@ Coming...
 
 
 
+## USENIX Security
+[USENIX Security](https://www.usenix.org/conference/usenixsecurity19) - *USENIX Security 2019 official website.*
+* **Time**: Aug 14 - 16, 2019
+* **Location**: SANTA CLARA, CA - USA
+* **Registration opens**: 
+
+**Papers of interest:**
+Coming ...
+
+
 ## ACM SIGCOMM
 [ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2019/) - *ACM SIGCOMM 2019 official website.*
 * **Time**: August 19, 2019
@@ -176,41 +218,6 @@ Coming ...
 
 
 
-
-## ACM/USENIX NSDI
-[ACM/USENIX NSDI]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
-
-## USENIX Security
-[USENIX Security]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
-
-
-## IEEE Security & Privacy
-[IEEE Security & Privacy]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
-
-
-
-## IEEE NDSS
-[IEEE NDSS]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
 
 
 
