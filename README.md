@@ -7,19 +7,14 @@ Record the conferences of interest in 2019
 * **Location**: Anchorage, Alaska - USA
 * **Registration opens**: April 1, 2019
 
+**Papers of interest**
 ```
-For reference: The prices below reflect last year's rates. Please use this for planning purposes, but prices may change when registration opens.
-Full Conference	Early-Bird
-Standard
-On-Site
-SIGKDD Members	$890	$1,090	$1,190
-SIGMOD Members	$890	$1,090	$1,190
-Non-ACM/SIG Members	$1,090	$1,215	$1,380
-Student	$490	$590	$690
-One Day Conference Fees			
-Tuesday	$445	$445	$445
-Wednesday	$445	$445	$445
-Thursday	$200	$200	$200
-Workshop / Tutorial Only Fees			
-All Registration Types	$445	$445	$445
+Coming...
+
+Key Dates:
+Submission: February 3, 2019
+Notification: Apr 28, 2019
+Camera-ready: May 17, 2019
+Short Promotional Video (Required): June 2, 2019
+Conference (Anchorage, Alaska): August 4 to August 8, 2019
 ```
