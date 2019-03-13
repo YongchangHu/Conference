@@ -57,4 +57,21 @@ Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China);
 
 Coming...
 
+## IJCAI 2019
+[IJCAI 2019](https://www.ijcai19.org/) - *IJCAI 2019 official website.*
+* **Time**: August 10-16, 2019
+* **Location**: Macao, China
+* **Registration opens**: Comming soon
+
+**Papers of interest:**
+
+Coming...
+
+Important Dates (Main track):
+Abstract submission deadline: February 19, 2019 (11:59PM UTC-12)
+Paper submission deadline February 25, 2019 (11:59PM UTC-12)
+Rebuttal period: April 13-18, 2019
+Paper notification: May 9, 2019
+
+
 
