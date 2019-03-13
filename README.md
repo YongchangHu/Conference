@@ -134,8 +134,8 @@ Coming...
 
 **Papers of interest:**
 
-* **Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices** [preprint](https://arxiv.org/pdf/1812.02349.pdf)
-Qiongzheng Lin, Zhenlin An, Lei Yang (The Hong Kong Polytechnic University)
+* **Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices,** 
+Qiongzheng Lin, Zhenlin An, Lei Yang (The Hong Kong Polytechnic University) [preprint](https://arxiv.org/pdf/1812.02349.pdf)
 
 
 
