@@ -17,7 +17,7 @@ Record the conferences of interest in 2019
 * **ACM CCS:** November 11 - 15, 2019, London, UK
 * **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
 * **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
-
+* **AIOPS EXPO:** Feb 12 -14, 2020, Greater Fort Lauderdale / Broward County Convention Center in Fort Lauderdale, Florida
 
 
 ## IEEE NDSS
@@ -242,6 +242,16 @@ Coming...
 [ACM CoNEXT](https://conferences2.sigcomm.org/co-next/2019/#!/home) - *ACM CoNEXT 2019 official website.*
 * **Time**: Dec 10-13, 2019
 * **Location**: Orlando, Florida - USA
+* **Registration opens**: 
+
+**Papers of interest:**
+
+Coming...
+
+## AIOPS EXPO
+[AIOPS EXPO](https://www.aiopsexpo.com/overview.aspx) - *AIOPS EXPO 2020 official website.*
+* **Time**: Feb 12 -14, 2020
+* **Location**: Greater Fort Lauderdale / Broward County Convention Center in Fort Lauderdale, Florida
 * **Registration opens**: 
 
 **Papers of interest:**
