@@ -1,26 +1,14 @@
 # Conferences in 2019
 Record the conferences of interest in 2019
 
-## KDD 2019
-[KDD 2019](https://www.kdd.org/kdd2019/) - *KDD 2019 official website.*
-* **Time**: August 4 - 8, 2019
-* **Location**: Anchorage, Alaska - USA
-* **Registration opens**: April 1, 2019
+## Schedule
+* **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
+* **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach, USA
+* **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
+* **IJCAI:** August 10-16, 2019, Macao, China
+* **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver CANADA 
 
-**Papers of interest:**
-
-Coming...
-
-KDD 2019 Call for Research Papers
-Key Dates:
-Submission: February 3, 2019
-Notification: Apr 28, 2019
-Camera-ready: May 17, 2019
-Short Promotional Video (Required): June 2, 2019
-Conference (Anchorage, Alaska): August 4 to August 8, 2019
-
-
-## Infocom 2019
+## IEEE Infocom 2019
 [INFOCOM 2019](https://infocom2019.ieee-infocom.org/) - *INFOCOM 2019 official website.*
 * **Time**: 29 April - 2 May 2019 
 * **Location**: Paris - France
@@ -47,15 +35,24 @@ Xiaocan Li (Stony Brook University, New York, USA); Kun Xie (State University of
 Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China); Jie Chen, Honglin Qiao, Yang Feng and Zhaogang Wang (Alibaba Group, P.R. China)
 
 
-## NIPS 2019
-[NIPS 2019](https://nips.cc/) - *NIPS 2019 official website.*
-* **Time**: Sun Dec 8th through Sat the 14th, 2019
-* **Location**: Vancouver Convention Center, Vancouver CANADA 
-* **Registration opens**: Registration Opens	2019-9-3 
+
+## ACM KDD 2019
+[KDD 2019](https://www.kdd.org/kdd2019/) - *KDD 2019 official website.*
+* **Time**: August 4 - 8, 2019
+* **Location**: Anchorage, Alaska - USA
+* **Registration opens**: April 1, 2019
 
 **Papers of interest:**
 
 Coming...
+
+KDD 2019 Call for Research Papers
+Key Dates:
+Submission: February 3, 2019
+Notification: Apr 28, 2019
+Camera-ready: May 17, 2019
+Short Promotional Video (Required): June 2, 2019
+Conference (Anchorage, Alaska): August 4 to August 8, 2019
 
 ## IJCAI 2019
 [IJCAI 2019](https://www.ijcai19.org/) - *IJCAI 2019 official website.*
@@ -73,6 +70,8 @@ Paper submission deadline February 25, 2019 (11:59PM UTC-12)
 Rebuttal period: April 13-18, 2019
 Paper notification: May 9, 2019
 
+
+
 ## ICML 2019
 [ICML 2019](https://icml.cc/) - *ICML 2019 official website.*
 * **Time**: Sun Jun 9th through Sat the 15th, 2019
@@ -83,6 +82,124 @@ Paper notification: May 9, 2019
 
 Coming...
 
+## ACM SIGCOMM
+[ACM SIGCOMM]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
 
+**Papers of interest:**
+
+## ACM IMC
+[ACM IMC]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM MobiSys
+[ACM MobiSys]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM CoNEXT
+[ACM CoNEXT]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM MobiCom
+[ACM MobiCom]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM SIGMETRICS
+[ACM SIGMETRICS]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM CCS
+[ACM CCS]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+
+## ACM/USENIX NSDI
+[ACM/USENIX NSDI]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## ACM/USENIX NSDI
+[ACM/USENIX NSDI]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+## USENIX Security
+[USENIX Security]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+## IEEE Security & Privacy
+[IEEE Security & Privacy]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+
+## IEEE NDSS
+[IEEE NDSS]() - * 2019 official website.*
+* **Time**:
+* **Location**:
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
+
+
+## NIPS 2019
+[NIPS 2019](https://nips.cc/) - *NIPS 2019 official website.*
+* **Time**: Sun Dec 8th through Sat the 14th, 2019
+* **Location**: Vancouver Convention Center, Vancouver CANADA 
+* **Registration opens**: Registration Opens	2019-9-3 
+
+**Papers of interest:**
+
+Coming...
 
 
