@@ -1,12 +1,17 @@
 # Conferences in 2019
 Record the conferences of interest in 2019
 
-## Schedule
+## Events
 * **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
-* **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach, USA
+* **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach - USA
+* **ACM MobiSys:** Jun 17 - 21, 2019, Seoul - South Korea
 * **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
-* **IJCAI:** August 10-16, 2019, Macao, China
-* **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver CANADA 
+* **IJCAI:** August 10-16, 2019, Macao - China
+* **ACM SIGCOMM:** August 19, 2019, Beijing - China
+* **ACM IMC:** October 21 - 23, 2019, Amsterdam - Netherlands
+* **ACM MobiCom:** October 21-25, Los Cabos, Mexico
+* **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
+* **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
 
 ## IEEE Infocom 2019
 [INFOCOM 2019](https://infocom2019.ieee-infocom.org/) - *INFOCOM 2019 official website.*
@@ -34,6 +39,25 @@ Xiaocan Li (Stony Brook University, New York, USA); Kun Xie (State University of
 * **Unsupervised Anomaly Detection for Intricate KPIs via Adversarial Training of VAE,**
 Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China); Jie Chen, Honglin Qiao, Yang Feng and Zhaogang Wang (Alibaba Group, P.R. China)
 
+## ICML 2019
+[ICML 2019](https://icml.cc/) - *ICML 2019 official website.*
+* **Time**: Sun Jun 9th through Sat the 15th, 2019
+* **Location**: Long Beach Convention Center, Long Beach, USA
+* **Registration opens**: 2019-3-12- 08:00
+
+**Papers of interest:**
+
+Coming...
+
+## ACM MobiSys
+[ACM MobiSys](https://www.sigmobile.org/mobisys/2019/) - * 2019 official website.*
+* **Time**: Jun 17 - 21, 2019
+* **Location**: Seoul - South Korea
+* **Registration opens**: 
+
+**Papers of interest:**
+
+
 
 
 ## ACM KDD 2019
@@ -47,11 +71,17 @@ Wenxiao Chen, Haowen Xu, Zeyan Li and Dan Pei (Tsinghua University, P.R. China);
 Coming...
 
 KDD 2019 Call for Research Papers
+
 Key Dates:
+
 Submission: February 3, 2019
+
 Notification: Apr 28, 2019
+
 Camera-ready: May 17, 2019
+
 Short Promotional Video (Required): June 2, 2019
+
 Conference (Anchorage, Alaska): August 4 to August 8, 2019
 
 ## IJCAI 2019
@@ -65,65 +95,48 @@ Conference (Anchorage, Alaska): August 4 to August 8, 2019
 Coming...
 
 Important Dates (Main track):
+
 Abstract submission deadline: February 19, 2019 (11:59PM UTC-12)
+
 Paper submission deadline February 25, 2019 (11:59PM UTC-12)
+
 Rebuttal period: April 13-18, 2019
+
 Paper notification: May 9, 2019
 
 
 
-## ICML 2019
-[ICML 2019](https://icml.cc/) - *ICML 2019 official website.*
-* **Time**: Sun Jun 9th through Sat the 15th, 2019
-* **Location**: Long Beach Convention Center, Long Beach, USA
-* **Registration opens**: 2019-3-12- 08:00
-
-**Papers of interest:**
-
-Coming...
-
 ## ACM SIGCOMM
-[ACM SIGCOMM]() - * 2019 official website.*
-* **Time**:
-* **Location**:
+[ACM SIGCOMM](https://conferences.sigcomm.org/sigcomm/2019/) - *ACM SIGCOMM 2019 official website.*
+* **Time**: August 19, 2019
+* **Location**: Beijing, China
 * **Registration opens**: 
 
 **Papers of interest:**
+
+
 
 ## ACM IMC
-[ACM IMC]() - * 2019 official website.*
-* **Time**:
-* **Location**:
+[ACM IMC](https://conferences.sigcomm.org/imc/2019/) - *ACM IMC 2019 official website.*
+* **Time**: October 21 - 23, 2019
+* **Location**: Amsterdam, Netherlands
 * **Registration opens**: 
 
 **Papers of interest:**
 
-
-## ACM MobiSys
-[ACM MobiSys]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
-
-
-## ACM CoNEXT
-[ACM CoNEXT]() - * 2019 official website.*
-* **Time**:
-* **Location**:
-* **Registration opens**: 
-
-**Papers of interest:**
 
 
 ## ACM MobiCom
-[ACM MobiCom]() - * 2019 official website.*
-* **Time**:
-* **Location**:
+[ACM MobiCom](https://sigmobile.org/mobicom/2019/) - *ACM MobiCom 2019 official website.*
+* **Time**: Oct 21- 25, 2019
+* **Location**: Los Cabos, Mexico
 * **Registration opens**: 
 
 **Papers of interest:**
+
+* **Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices** [preprint](https://arxiv.org/pdf/1812.02349.pdf)
+Qiongzheng Lin, Zhenlin An, Lei Yang (The Hong Kong Polytechnic University)
+
 
 
 ## ACM SIGMETRICS
@@ -202,4 +215,12 @@ Coming...
 
 Coming...
 
+## ACM CoNEXT
+[ACM CoNEXT](https://conferences2.sigcomm.org/co-next/2019/#!/home) - *ACM CoNEXT 2019 official website.*
+* **Time**: Dec 10-13, 2019
+* **Location**: Orlando, Florida - USA
+* **Registration opens**: 
 
+**Papers of interest:**
+
+Coming...
