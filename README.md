@@ -70,19 +70,19 @@ Coming...
 
 Coming...
 
-KDD 2019 Call for Research Papers
+**KDD 2019 Call for Research Papers**
 
-Key Dates:
+**Key Dates:**
 
-Submission: February 3, 2019
+**Submission:** February 3, 2019
 
-Notification: Apr 28, 2019
+**Notification:** Apr 28, 2019
 
-Camera-ready: May 17, 2019
+**Camera-ready:** May 17, 2019
 
-Short Promotional Video (Required): June 2, 2019
+**Short Promotional Video (Required):** June 2, 2019
 
-Conference (Anchorage, Alaska): August 4 to August 8, 2019
+**Conference (Anchorage, Alaska):** August 4 to August 8, 2019
 
 ## IJCAI 2019
 [IJCAI 2019](https://www.ijcai19.org/) - *IJCAI 2019 official website.*
@@ -94,15 +94,15 @@ Conference (Anchorage, Alaska): August 4 to August 8, 2019
 
 Coming...
 
-Important Dates (Main track):
+**Important Dates (Main track):**
 
-Abstract submission deadline: February 19, 2019 (11:59PM UTC-12)
+**Abstract submission deadline:** February 19, 2019 (11:59PM UTC-12)
 
-Paper submission deadline February 25, 2019 (11:59PM UTC-12)
+**Paper submission deadline** February 25, 2019 (11:59PM UTC-12)
 
-Rebuttal period: April 13-18, 2019
+**Rebuttal period:** April 13-18, 2019
 
-Paper notification: May 9, 2019
+**Paper notification:** May 9, 2019
 
 
 
