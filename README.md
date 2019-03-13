@@ -63,6 +63,8 @@ Coming...
 * **Location**: Macao, China
 * **Registration opens**: Comming soon
 
+![IJCAI2019](https://github.com/YongchangHu/Conference/blob/master/IJCAI2019-MACAO-Poster.pdf)
+
 **Papers of interest:**
 
 Coming...
