@@ -2,22 +2,22 @@
 Record the conferences of interest in 2019
 
 ## Events
-* **ACM/USENIX NSDI:** Feb 26 - 28, 2019,  BOSTON, MA - USA
-* **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
-* **IEEE Security & Privacy:** May 20 -29, 2019, THE HYATT REGENCY, SAN FRANCISCO - CA
-* **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach - USA
-* **ACM MobiSys:** Jun 17 - 21, 2019, Seoul - South Korea
-* **ACM SIGMETRICS:** Jun 24 - 28, 2019, Phoenix, Arizona - USA
-* **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
-* **IJCAI:** August 10-16, 2019, Macao - China
-* **USENIX Security:** August 14 -16, 2019, SANTA CLARA, CA - USA
-* **ACM SIGCOMM:** August 19, 2019, Beijing - China
-* **ACM IMC:** October 21 - 23, 2019, Amsterdam - Netherlands
-* **ACM MobiCom:** October 21-25, Los Cabos, Mexico
-* **ACM CCS:** November 11 - 15, 2019, London, UK
-* **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
-* **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
 * **AIOPS EXPO:** Feb 12 -14, 2020, Greater Fort Lauderdale / Broward County Convention Center in Fort Lauderdale, Florida
+* **ACM CoNEXT:** Dec 10 - 13, 2019, Orlando, Florida - USA
+* **NIPS:**  Dec 8 -14, 2019, Vancouver Convention Center, Vancouver - CANADA 
+* **ACM CCS:** November 11 - 15, 2019, London, UK
+* **ACM MobiCom:** October 21-25, Los Cabos, Mexico
+* **ACM IMC:** October 21 - 23, 2019, Amsterdam - Netherlands
+* **ACM SIGCOMM:** August 19, 2019, Beijing - China
+* **USENIX Security:** August 14 -16, 2019, SANTA CLARA, CA - USA
+* **IJCAI:** August 10-16, 2019, Macao - China
+* **ACM KDD:** August 4 - 8, 2019,  Anchorage, Alaska - USA
+* **ACM SIGMETRICS:** Jun 24 - 28, 2019, Phoenix, Arizona - USA
+* **ACM MobiSys:** Jun 17 - 21, 2019, Seoul - South Korea
+* **ICML:** Jun 9 - 15, 2019, Long Beach Convention Center, Long Beach - USA
+* **IEEE Security & Privacy:** May 20 -29, 2019, THE HYATT REGENCY, SAN FRANCISCO - CA
+* **IEEE INFOCOM:** April 29  - May 2  2019, Paris - France
+* **ACM/USENIX NSDI:** Feb 26 - 28, 2019,  BOSTON, MA - USA
 
 
 ## IEEE NDSS
