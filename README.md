@@ -1,5 +1,6 @@
 # Conferences and Journals on Data Mining
-
+Knowledge Discovery and Data Mining (KDD) conferences
+* ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD)
 
 # Conferences in 2019
 Record the conferences of interest in 2019
