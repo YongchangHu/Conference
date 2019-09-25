@@ -17,7 +17,8 @@
 * **IEEE trans. on Knowledge and Data Eng. (TKDE)**
 * **KDD Explorations**
 * **ACM Trans. on KDD**
-* **Data ming and KDD (SIGKDD:CDROM)**
+
+### **Data ming and KDD (SIGKDD:CDROM)**
 
 
 
