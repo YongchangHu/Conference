@@ -18,7 +18,36 @@
 * **KDD Explorations**
 * **ACM Trans. on KDD**
 
-### **Data ming and KDD (SIGKDD:CDROM)**
+## **Data ming and KDD (SIGKDD:CDROM)**
+* **Conferences:** ACM-SIGKDD, IEEE-ICDM,SIAM-DM,PKDD,PAKDD,etc.
+* **Journal:** Data Mining and Knowledge Discovery, KDD Explorations, ACM TKDD
+
+
+## **Database systems (SIGMOD:ACM SIGMOD Anthology --CD ROM)**
+* **Conferences:** ACM-SIGMOD. ACM-PODS,VLDB, IEEE-ICDE, EDBT,ICDT,DASFAA
+* **Journal:** IEEE-TKDE, ACM-TODS/TOIS, JIIS, J.ACM,VLDM J.,Info. Sys. etc..
+
+
+## **AI & Machine Learning**
+* **Conferences:** Machine Learning (ML), AAAI, IJCAI,COLT(Learning Theory), CVPR, NIPS, etc.
+* **Journal:** Machine Learning, Artifical Intelligence, Knowledge and Information Systems, IEEE-PAMI, etc.
+
+
+## **Web and IR**
+* **Conferences:** SIGIR, WWW, CIKM, etc..
+* **Journal:** WWW, Internet and Web Information Systems,
+
+
+## **Visualization**
+* **Conferences:** CHI, ACM-SIGGraph, etc..
+* **Journal:** IEEE Trans. visualization and computer graphics, etc..
+
+
+
+
+
+
+
 
 
 
