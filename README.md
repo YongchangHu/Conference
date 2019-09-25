@@ -1,7 +1,9 @@
 # Conferences and Journals on Data Mining
 ## Knowledge Discovery and Data Mining (KDD) conferences
-* **ACM SIGKDD Int. Conf. on Knowledge Discovery in Databases and Data Mining (KDD)
-* **SIAM Data Mining Conf. (SDM)
+* ACM SIGKDD Int. Conf. on Knowledge Discovery in Databases and Data Mining (KDD)
+* SIAM Data Mining Conf. (SDM)
+* (IEEE) Int. Conf. on Data Mining (ICDM)
+* European Conf. on Machine Learning and Principles and practices of Knowledge Discovery and Data Mining (ECML-PKDD)
 
 
 
