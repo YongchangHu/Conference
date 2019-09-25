@@ -4,7 +4,20 @@
 * **SIAM Data Mining Conf. (SDM)**
 * **(IEEE) Int. Conf. on Data Mining (ICDM)**
 * **European Conf. on Machine Learning and Principles and practices of Knowledge Discovery and Data Mining (ECML-PKDD)**
+* **Pacific-Asia Conf.on Knowledge Discovery and Data Mining (PAKDD)**
+* **Int. Conf. on Web Search and Data Mining (WSDM)**
+## Other related conferences
+* **DB conferences: ACM SIGMOD,VLDB,ICDE,EDBT,ICDT,...**
+* **Web and IR conferences: WWW,SIGIR,WSDM**
+* **ML conferences: ICML,NIPS,...**
+* **PR conferences: CVPR,...**
 
+## Journals
+* **Data Mining and knowledge Discovery (DAMI or DMKD)**
+* **IEEE trans. on Knowledge and Data Eng. (TKDE)**
+* **KDD Explorations**
+* **ACM Trans. on KDD**
+* **Data ming and KDD (SIGKDD:CDROM)**
 
 
 
