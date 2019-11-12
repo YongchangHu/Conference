@@ -52,7 +52,11 @@
 Record the conferences of interest in 2019
 
 ## Events
-* **[ACM CoNEXT](https://conferences2.sigcomm.org/co-next/2019/#!/home)** Jul 11 -17, 2020, Yokohama, Japan
+* **[INFOCOM](https://infocom2020.ieee-infocom.org/)** 27-30 April 2020 // Beijing, China
+* **[IJCAI](https://www.ijcai20.org/)** Jul 11 -17, 2020, Yokohama, Japan
+* **[ICML](https://icml.cc/)** Jul 12 -18, 2020, Messe Wien Exhibition & Congress Center, Vienna AUSTRIA
+* **[KDD](https://www.kdd.org/kdd2020/)** Aug 22 -27, 2020, San Diego Convention CenterSan Diego, California - USA
+* **[MobiCom](https://sigmobile.org/mobicom/2020/)** Sep 21 -29, 2020, London, United Kingdom
 
 
 
