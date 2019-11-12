@@ -52,7 +52,7 @@
 Record the conferences of interest in 2019
 
 ## Events
-* **AIOPS EXPO:** Feb 12 -14, 2020, Greater Fort Lauderdale / Broward County Convention Center in Fort Lauderdale, Florida
+* **[ACM CoNEXT](https://conferences2.sigcomm.org/co-next/2019/#!/home)** Jul 11 -17, 2020, Yokohama, Japan
 
 
 
