@@ -52,14 +52,17 @@
 Record the conferences of interest in 2019
 
 ## Events
+* **[noms](https://noms2020.ieee-noms.org/)** 20-24 April 2020, Budapest, Hungary
 * **[INFOCOM](https://infocom2020.ieee-infocom.org/)** 27-30 April 2020 // Beijing, China
+* **[ICMR](http://icmr2020.org/)** June 8-11 2020, Dublin, Ireland
+* **[AAAI](https://aaai.org/Conferences/AAAI-20/)** June 14 - 19, 2020, the Hilton New York Midtown, New York, New York, USA. 
+* **[CVPR](http://cvpr2020.thecvf.com/)** June 14 - 19, 2020, Seattle, Washington
 * **[IJCAI](https://www.ijcai20.org/)** Jul 11 -17, 2020, Yokohama, Japan
 * **[ICML](https://icml.cc/)** Jul 12 -18, 2020, Messe Wien Exhibition & Congress Center, Vienna AUSTRIA
 * **[KDD](https://www.kdd.org/kdd2020/)** Aug 22 -27, 2020, San Diego Convention CenterSan Diego, California - USA
 * **[MobiCom](https://sigmobile.org/mobicom/2020/)** Sep 21 -29, 2020, London, United Kingdom
-* **[CVPR](http://cvpr2020.thecvf.com/)** June 14 - 19, 2020, Seattle, Washington
-* **[AAAI](https://aaai.org/Conferences/AAAI-20/)** June 14 - 19, 2020, the Hilton New York Midtown, New York, New York, USA. 
-* **[ICMR](http://icmr2020.org/)** June 8-11 2020, Dublin, Ireland
+
+
 
 
 
