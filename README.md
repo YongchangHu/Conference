@@ -57,7 +57,9 @@ Record the conferences of interest in 2019
 * **[ICML](https://icml.cc/)** Jul 12 -18, 2020, Messe Wien Exhibition & Congress Center, Vienna AUSTRIA
 * **[KDD](https://www.kdd.org/kdd2020/)** Aug 22 -27, 2020, San Diego Convention CenterSan Diego, California - USA
 * **[MobiCom](https://sigmobile.org/mobicom/2020/)** Sep 21 -29, 2020, London, United Kingdom
-
+* **[CVPR](http://cvpr2020.thecvf.com/)** June 14 - 19, 2020, Seattle, Washington
+* **[AAAI](https://aaai.org/Conferences/AAAI-20/)** June 14 - 19, 2020, the Hilton New York Midtown, New York, New York, USA. 
+* **[ICMR](http://icmr2020.org/)** June 8-11 2020, Dublin, Ireland
 
 
 
