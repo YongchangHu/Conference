@@ -52,7 +52,7 @@
 Record the conferences of interest in 2019
 
 ## Events
-* **[noms](https://noms2020.ieee-noms.org/)** 20-24 April 2020, Budapest, Hungary
+* **[NOMS](https://noms2020.ieee-noms.org/)** 20-24 April 2020, Budapest, Hungary
 * **[INFOCOM](https://infocom2020.ieee-infocom.org/)** 27-30 April 2020 // Beijing, China
 * **[ICMR](http://icmr2020.org/)** June 8-11 2020, Dublin, Ireland
 * **[AAAI](https://aaai.org/Conferences/AAAI-20/)** June 14 - 19, 2020, the Hilton New York Midtown, New York, New York, USA. 
